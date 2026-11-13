@@ -1,8 +1,8 @@
 # Privacy Policy for Expense Tracker
 
-Last updated: [DATE]
+Last updated: [13 November 2026]
 
-**Who we are:** [YOUR NAME / COMPANY], contact: [YOUR EMAIL]
+**Who we are:** [DEEPAK K], contact: [deepak703kannan@gmail.com]
 
 **What we collect**
 - Your email address and password (stored securely by our authentication provider, Supabase) so you can sign in.
@@ -12,7 +12,7 @@ Last updated: [DATE]
 Only to run the app: show your expenses and reports, sync them between your devices, and schedule due-date reminders on your phone. We do not sell your data, share it for advertising, or use analytics or ad trackers.
 
 **Where it is stored**
-On your device, and, when you are signed in and online, on Supabase servers (region: [REGION]). Data is sent over HTTPS.
+On your device, and, when you are signed in and online, on Supabase servers (region: Northeast Asia (Tokyo)). Data is sent over HTTPS.
 
 **Notifications**
 Due-date reminders are scheduled locally on your phone. You can turn them off in Android Settings.
